@@ -57,7 +57,7 @@ const Home = () => {
                   },
                   "background": {
                     "type": "color",
-                    "value": color
+                    "value": "#008000"
                   }
                 }
               ],
